@@ -23,4 +23,4 @@ require that all presenters send a short summary of their presentation to any e-
   2. Delaney Dvorsky
   3. Calvin Leung
   4. Rick Howell
-  5. Oscar Ar... something
+  5. Oscar Arana
